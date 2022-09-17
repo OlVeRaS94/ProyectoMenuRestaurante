@@ -1,9 +1,9 @@
 .card-columns {
-    column-count: 2;
+    column-count: 3;
 }
 
 .vino{
-    filter: blur(2px);
+    filter: blur(3px);
     left: 0;
     position: absolute;
     user-select: none;
@@ -11,7 +11,7 @@
     height: 60%;
 }
 .entrante{
-    filter: blur(2px);
+    filter: blur(3px);
     left: 0;
     position: absolute;
     user-select: none;
@@ -21,7 +21,7 @@
 
 
 .arroz{
-    filter: blur(2px);
+    filter: blur(3px);
     left: 0;
     position: absolute;
     user-select: none;
