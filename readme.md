@@ -2,45 +2,33 @@
 
 Proyecto de un menu de restaurante hecho con html, css y bootstrap.
 
-<h1>Comenzando 🚀</h1>
+<h2>Comenzando 🚀</h2>
 
 Primero lo que hice fue hacer el menu, despues me dedique hacer la barra de navegacion y eso lo copie a 3 archivos distintos. Me descargue las imagenes que necesitaba para implementarlas en el codigo.
 
 
-<h1>Pre-requisitos 📋</h1>
+<h3>Pre-requisitos 📋</h3>
 
-Visual studio code
-Git
-Github
-Html5
-Css
-Disco duro externo(opcional)
+Visual studio code, Git, Github, Html5, Css y Disco duro externo(opcional)
 
-<h1>Ejecutando las pruebas ⚙️</h1>
+<h3>Ejecutando las pruebas ⚙️</h3>
 
 Se supone que todos los botones funcionan entre si.
 
-<h1>Construido con 🛠️</h1>
+<h3>Construido con 🛠️</h3>
 
-Html 5
-Css
-Bootstrap
-Visual studio code
-Git
-Git hub
+Html 5, Css, Bootstrap, Visual studio code, Git y Git hub
 
-<h1>Contribuyendo 🖇️</h1>
+<h3>Contribuyendo 🖇️</h3>
 
 Restaurante casa concha por toda la info.
 
 
-<h1>Versionado 📌</h1>
+<h3>Versionado 📌</h3>
 
-bootstrap 5
-html 5
-css
+bootstrap 5, html 5 y css
 
-<h1>Autores ✒️</h1>
+<h3>Autores ✒️</h3>
 
 Toni Oliveira - Trabajo Inicial.
 
