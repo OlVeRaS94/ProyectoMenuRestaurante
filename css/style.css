@@ -1,0 +1,34 @@
+.card-columns {
+    column-count: 2;
+}
+
+.vino{
+    filter: blur(2px);
+    left: 0;
+    position: absolute;
+    user-select: none;
+    width: 100%;
+    height: 60%;
+}
+.entrante{
+    filter: blur(2px);
+    left: 0;
+    position: absolute;
+    user-select: none;
+    width: 100%;
+    height: 80%;
+}
+
+
+.arroz{
+    filter: blur(2px);
+    left: 0;
+    position: absolute;
+    user-select: none;
+    width: 100%;
+    height: 70%;
+}
+
+
+
+
